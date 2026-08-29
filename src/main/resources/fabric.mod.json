@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "turboclient",
+  "version": "1.0.0",
+  "name": "TurboClient 5.0",
+  "description": "Чит-клиент для ReallyWorld",
+  "entrypoints": {
+    "client": [
+      "com.yourname.client.ClientMod"
+    ]
+  }
+}
